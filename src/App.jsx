@@ -150,9 +150,10 @@ function App() {
             </p>
             <a 
               href="mailto:contact@phoenixblockforge.com" 
-              className="inline-block px-8 py-4 bg-bitcoin hover:bg-orange-600 text-white font-semibold rounded-lg transition-all transform hover:scale-105"
+              className="inline-flex items-center gap-2 px-8 py-4 bg-bitcoin hover:bg-orange-600 text-white font-semibold rounded-lg transition-all transform hover:scale-105"
             >
-              contact@phoenixblockforge.com
+              <Mail className="w-5 h-5" />
+              Email Us
             </a>
           </div>
         </div>
