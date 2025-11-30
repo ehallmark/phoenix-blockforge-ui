@@ -1,6 +1,6 @@
-# Phoenix Blockforge LLC Website
+# Phoenix Blockmine LLC Website
 
-Professional website for Phoenix Blockforge LLC - a Bitcoin mining investment company focused on strategic capital accumulation and mining infrastructure acquisition.
+Professional website for Phoenix Blockmine LLC - a Bitcoin mining investment company focused on strategic capital accumulation and mining infrastructure acquisition.
 
 ## 🚀 Quick Start
 
@@ -97,8 +97,8 @@ Edit `/index.html` to update:
 
 ## 📧 Contact
 
-For questions about the website, reach out to contact@phoenixblockforge.com
+For questions about the website, reach out to evan@phoenixblockforge.com
 
 ---
 
-© 2024 Phoenix Blockforge LLC. All rights reserved.
+© 2025 Phoenix Blockmine LLC. All rights reserved.

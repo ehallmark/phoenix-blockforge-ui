@@ -9,7 +9,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Bitcoin className="w-8 h-8 text-bitcoin" />
-              <span className="text-xl font-bold">Phoenix Blockforge LLC</span>
+              <span className="text-xl font-bold">Phoenix Blockmine LLC</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#about" className="hover:text-bitcoin transition-colors">About</a>
@@ -75,12 +75,12 @@ function App() {
       <section id="about" className="py-20 px-6">
         <div className="container mx-auto max-w-4xl">
           <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">About Phoenix Blockforge</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">About Phoenix Blockmine</h2>
             <div className="w-24 h-1 bg-bitcoin mx-auto"></div>
           </div>
           <div className="space-y-6 text-lg text-gray-300 leading-relaxed">
             <p>
-              Phoenix Blockforge LLC is an early-stage investment company focused on strategic Bitcoin accumulation through mining infrastructure acquisition. Our mission is to build sustainable, long-term value by participating directly in the Bitcoin network's security and operations.
+              Phoenix Blockmine LLC is an early-stage investment company focused on strategic Bitcoin accumulation through mining infrastructure acquisition. Our mission is to build sustainable, long-term value by participating directly in the Bitcoin network's security and operations.
             </p>
             <p>
               We believe Bitcoin represents the future of sound money and digital value storage. By investing in state-of-the-art mining equipment, we position ourselves at the intersection of energy, technology, and finance while contributing to the decentralization and security of the Bitcoin network.
@@ -139,7 +139,7 @@ function App() {
             <h2 className="text-4xl md:text-5xl font-bold mb-4">Get in Touch</h2>
             <div className="w-24 h-1 bg-bitcoin mx-auto mb-8"></div>
             <p className="text-xl text-gray-300">
-              Interested in learning more about Phoenix Blockforge LLC? We'd love to hear from you.
+              Interested in learning more about Phoenix Blockmine LLC? We'd love to hear from you.
             </p>
           </div>
           <div className="bg-gray-800/50 rounded-xl border border-gray-700 p-12 text-center">
@@ -149,7 +149,7 @@ function App() {
               For investment inquiries, partnerships, or general questions, please reach out to us.
             </p>
             <a 
-              href="mailto:contact@phoenixblockforge.com" 
+              href="mailto:evan@phoenixblockforge.com" 
               className="inline-flex items-center gap-2 px-8 py-4 bg-bitcoin hover:bg-orange-600 text-white font-semibold rounded-lg transition-all transform hover:scale-105"
             >
               <Mail className="w-5 h-5" />
@@ -165,10 +165,10 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-2">
               <Bitcoin className="w-6 h-6 text-bitcoin" />
-              <span className="font-semibold">Phoenix Blockforge LLC</span>
+              <span className="font-semibold">Phoenix Blockmine LLC</span>
             </div>
             <div className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Phoenix Blockforge LLC. All rights reserved.
+              © {new Date().getFullYear()} Phoenix Blockmine LLC. All rights reserved.
             </div>
           </div>
         </div>
